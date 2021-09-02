@@ -1,0 +1,37 @@
+.policy-container .policy-table {
+    color: grey;
+    text-align: center;
+}
+
+.policy-container .headings, .policy {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.policy-container .heading {
+    flex-basis: 33.333%;
+    font-weight: bold;
+}
+
+.policy-container .policy {
+    border-radius: 2em;
+    background-color: white;
+    margin-bottom: 20px;
+    -moz-box-shadow: 0 0 3px grey;
+    -webkit-box-shadow: 0 0 3px grey;
+    box-shadow: 0 0 5px grey;
+}
+
+.policy-container span {
+    flex-basis: 33.333%;
+}
+
+.policy-container a {
+    text-decoration: none;
+}

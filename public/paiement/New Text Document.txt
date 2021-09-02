@@ -1,0 +1,9 @@
+Test credentials CMI:
+04/01/2021
+URL backoffice : https://testpayment.cmi.co.ma/cmi/report
+URL Gateway : https://testpayment.cmi.co.ma/fim/est3Dgate
+Identifiant du marchand : 600002165
+Nom d’utilisateur : ft_a
+Mot de passe(hash key) : csXXti!Y06ojgety8C7YR
+Mot de passe(hash key) : csXXti!Y06ojgety8C7YRtamkine
+Mot de passe(hash key) : tamkinecsXXti!Y06ojgety8C7YR
